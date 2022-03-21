@@ -48,3 +48,16 @@ h2{
 
 a:hover{color: yellowgreen;
 }
+
+@media screen (max-width: 600px){
+     #tribute-info{ 
+         text-align: center;
+         font-size:10px;}
+         
+     #image{
+         width:100%;
+     }
+        
+         }
+    
+
